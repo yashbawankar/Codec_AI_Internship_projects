@@ -1,0 +1,14 @@
+fruits/
+│
+├── apple/
+│ ├── img1.jpg
+│ ├── img2.jpg
+│ └── ...
+├── banana/
+│ ├── img1.jpg
+│ ├── img2.jpg
+│ └── ...
+└── orange/
+      ├── img1.jpg
+      ├── img2.jpg
+      └── ...
